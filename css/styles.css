@@ -11497,7 +11497,7 @@ footer.footer .social-link:hover {
 }
 
 .portfolio-item {
-  display: block;
+  display: flex;
   position: relative;
   overflow: hidden;
   max-width: 530px;
